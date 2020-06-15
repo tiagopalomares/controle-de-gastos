@@ -1,0 +1,114 @@
+{
+    "dir": "ltr",
+    "lang": "Portuguese",
+    "name": "Controle de gastos",
+    "scope": "/projeto-controle-de-gastos/",
+    "display": "browser",
+    "start_url": "https://tiagopalomares.github.io/projeto-controle-de-gastos/",
+    "short_name": "Controle de gastos",
+    "theme_color": "transparent",
+    "description": "Projeto criado usando html, css e Javascript com o intuito de poder adicionar os ganhos e as despesas e ter um controle melhor dos gastos.",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/6136065a-3328-44f3-f072-6a90e4644f51.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/37c57250-4983-ff07-0bd6-ed1d4c530624.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a18529d8-61b4-6bfb-1da6-df220abc12cf.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e4cd1e7c-5a44-2601-f1eb-80d479de10aa.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f2836b7b-8441-6717-b4a9-27d712621d00.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7ee031b8-a043-7688-501d-17b3ecd6a21e.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9967a944-05cc-a0d7-f9f5-0c571650993f.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/65b8cc64-442c-cb5d-af1b-d395ae235ebe.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/aa8324f2-b3a5-2635-b0f7-930aa26f9cac.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0b018c49-fdd4-9842-aaa5-1371b138c2c7.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b5260057-2093-aa15-57d8-442ff8aaca44.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/223e93a2-700d-36cc-3267-66754238be29.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/af32317e-c2ac-7a14-07ba-2b73bdf71892.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6ca6d9be-86d6-3553-aed9-7d9166ca56ea.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ff1e10b1-3447-6ffd-c5bd-f2f95b0fe3a3.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/991ddbdd-298a-de75-44b4-57558aafb86f.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0d3a6dce-12a6-34cb-fbe8-07994cff4b54.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d7cb1bf1-9d34-066d-7da6-2d82bbb14cd5.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/674f49a1-a028-0c32-eced-1e1dbf376a74.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ],
+    "url": "https://tiagopalomares.github.io/projeto-controle-de-gastos/",
+    "screenshots": []
+}
